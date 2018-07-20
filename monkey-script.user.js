@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Pathery Assist
-// @namespace  http://use.i.E.your.homepage/
-// @version    0.1
+// @namespace  https://github.com/WuTheFWasThat/midnighttherapy
+// @version    0.2
 // @description  Assistance for playing Pathery
 // @match      https://www.pathery.com/home
 // @match      https://www.pathery.com/mapeditor*
@@ -22,7 +22,15 @@
 // @match      http://blue.pathery.net/home
 // @match      http://blue.pathery.net/mapeditor*
 // @match      http://blue.pathery.net/scores*
-// @match      http://blue.pathery.net/
+// @match      http://pathery.unbridled.eu/
+// @match      http://pathery.unbridled.eu/home
+// @match      http://pathery.unbridled.eu/mapeditor*
+// @match      http://pathery.unbridled.eu/scores*
+// @match      https://pathery.unbridled.eu/
+// @match      https://pathery.unbridled.eu/home
+// @match      https://pathery.unbridled.eu/mapeditor*
+// @match      https://pathery.unbridled.eu/scores*
+
 // @copyright  2012+, You
 // @grant      none
 // ==/UserScript==

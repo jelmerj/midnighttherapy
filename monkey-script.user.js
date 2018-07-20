@@ -22,14 +22,15 @@
 // @match      http://blue.pathery.net/home
 // @match      http://blue.pathery.net/mapeditor*
 // @match      http://blue.pathery.net/scores*
-// @match      http://pathery.unbridled.eu/
+// @match      http://blue.pathery.net/
 // @match      http://pathery.unbridled.eu/home
 // @match      http://pathery.unbridled.eu/mapeditor*
 // @match      http://pathery.unbridled.eu/scores*
-// @match      https://pathery.unbridled.eu/
+// @match      http://pathery.unbridled.eu/
 // @match      https://pathery.unbridled.eu/home
 // @match      https://pathery.unbridled.eu/mapeditor*
 // @match      https://pathery.unbridled.eu/scores*
+// @match      https://pathery.unbridled.eu/
 
 // @copyright  2012+, You
 // @grant      none
